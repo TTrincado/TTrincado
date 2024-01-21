@@ -1,6 +1,15 @@
-<h4> Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
-Soy Tomás Trincado, un estudiante de Ingeniería en la PUC con grandes motivaciones para realizar diversos proyectos. 
+<h4> ¿Qué tal? <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con grandes motivaciones para realizar diversos proyectos.
 </br>
+
+---
+## 📊 &nbsp;Stats
+
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TTrincado&theme=tokyonight&show_icons=true&hide=stars,prs&hide_rank=true" />
+</p>
+
+---
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TTrincado.TTrincado" />
 <br><br>
@@ -9,9 +18,6 @@ Soy Tomás Trincado, un estudiante de Ingeniería en la PUC con grandes motivaci
 </p>
 <br><br>
 
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TTrincado&theme=tokyonight&show_icons=true&hide=stars,prs&hide_rank=true" />
-</p>
 
 ---
 ## Lenguajes
