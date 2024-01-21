@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TTrincado.TTrincado" />
-<h3 > ¡Hola! ¿Qué tal? <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h3 align="center"> ¡Hola! ¿Qué tal? <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con una sólida motivacion para realizar diversos proyectos. Busco constantemente nuevas oportunidades para aplicar mis habilidades y contribuir al desarrollo tecnológico. 
 
 <p>
@@ -8,7 +8,8 @@ Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con una só
 </p>
 
 ---
-## 📊 &nbsp;Stats
+
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=TTrincado&theme=tokyonight&show_icons=true&hide=stars,prs&hide_rank=true" />
@@ -17,14 +18,15 @@ Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con una só
 </p>
 
 ---
-
-
+<h2 align="center">🖥 &nbsp;Proyectos</h2>
+<img src="images/mm_logo2.png"/>
 
 ---
-## 🖥 &nbsp;Proyectos
 
-## ☎️&nbsp;Contáctame
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
----
-[1]: http://www.github.com/TTrincado
+<h2 align="center">☎️&nbsp;Contáctame</h2>
+
+<p align=center>
+  <a href="http://discordapp.com/users/ttrincado"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="50px" height="50px"></a>
+  <a href="https://t.me/TTrincado"><img src="https://www.svgrepo.com/show/349527/telegram.svg" width="50px" height="50px"></a>
+</p>
 
