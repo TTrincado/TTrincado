@@ -5,7 +5,7 @@
 </p>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTrincado&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTrincado&theme=tokyonight&show_icons=true&hide=stars,prs&show=reviews)
 ## Lenguajes
 
 ## Contáctame
