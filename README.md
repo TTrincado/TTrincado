@@ -5,11 +5,11 @@
 </p>
 <br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TTrincado/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TTrincado&theme=tokyonight&show_icons=true&hide=stars,prs&hide_rank=true" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTrincado&theme=tokyonight&show_icons=true&hide=stars,prs&hide_rank=true)
+--
 ## Lenguajes
 
 ## Contáctame
