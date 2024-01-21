@@ -1,6 +1,13 @@
-<h4> ¿Qué tal? <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
-Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con grandes motivaciones para realizar diversos proyectos.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TTrincado.TTrincado" />
+<br><br>
+<h3 > ¡Hola! ¿Qué tal? <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con una sólida motivacion para realizar diversos proyectos. Busco constantemente nuevas oportunidades para aplicar mis habilidades y contribuir al desarrollo tecnológico. 
+
 </br>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+</p>
 
 ---
 ## 📊 &nbsp;Stats
@@ -13,18 +20,12 @@ Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con grandes
 
 ---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TTrincado.TTrincado" />
-<br><br>
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-</p>
-<br><br>
 
 
 ---
-## Lenguajes
+## 🖥 &nbsp;Proyectos
 
-## Contáctame
+## &nbsp;Contáctame
 ---
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
 ---
