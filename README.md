@@ -2,6 +2,7 @@
 <h3 align="center"> ¡Hola! ¿Qué tal? <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con una sólida motivacion para realizar diversos proyectos. Busco constantemente nuevas oportunidades para aplicar mis habilidades y contribuir al desarrollo tecnológico. 
 
+<br/>
 <p>
 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5">
