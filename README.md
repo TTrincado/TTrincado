@@ -19,11 +19,11 @@ Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con una só
 
 </p>
 
----
+<!-- ---
 <h2 align="center">🖥 &nbsp;Proyectos</h2>
 <img src="images/mm_logo2.png"/>
 
----
+--- -->
 
 <h2 align="center">☎️&nbsp;Contáctame</h2>
 
