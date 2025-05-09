@@ -11,6 +11,7 @@ Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con una só
 
 ---
 
+<!-- ---
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
@@ -19,7 +20,6 @@ Soy Tomás Trincado, estudiante de Ingeniería de Software en la PUC con una só
 
 </p>
 
-<!-- ---
 <h2 align="center">🖥 &nbsp;Proyectos</h2>
 <img src="images/mm_logo2.png"/>
 
