@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TTrincado.TTrincado" />
+<img align="right" src="https://komarev.com/ghpvc/?username=TTrincado&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 <h3 align="center"> Yo! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h3>
 
 <p align="center">
